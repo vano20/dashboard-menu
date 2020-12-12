@@ -1,6 +1,8 @@
 # dashboard
 demo login:
+
 email: dev@dev.io
+
 password: 12345678
 
 ## Build Setup
